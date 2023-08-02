@@ -48,7 +48,7 @@ module.exports = {
               balance: "10000000000000000000000",
             },
           ]
-        : [],
+        : undefined,
     },
     ...networks,
   },
